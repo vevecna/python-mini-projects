@@ -20,7 +20,7 @@
 | **Unit Converter** | Converts between different units (e.g., Celsius/Fahrenheit, meters/feet). | Math operations, unit conversion formulas. |
 | **Markdown Previewer** | Preview Markdown files rendered as HTML. | Markdown library, file I/O, HTML generation. |
 | **Contact Book (CLI)** | Simple contact management system. | Dictionaries, lists, file I/O (JSON). |
-| **Number Guessing Game** | Guess a random number within a range. | Random module, loops, comparison operators. |
+| **Number Guessing Game** | Guess a random number within a range. | Random module, loops, comparison operators. | ✅ |
 | **Color Palette Generator** | Generates random color palettes with hex codes. | Random module, hex formatting, color theory basics. |
 
 ## 🚀 Getting Started
