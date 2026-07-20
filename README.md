@@ -2,6 +2,10 @@
 
 > A curated collection of small, focused Python projects designed for learning and skill development. Each project tackles a specific concept, library, or problem domain.
 
+## 📝 Daily Log
+
+See [`docs/`](docs/) for a day-by-day log of what was built and what each function does, one file per day (e.g. `docs/2026-07-20.md`).
+
 ## 📂 Project Directory
 
 | Project | Description | Key Concepts | Done |
